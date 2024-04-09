@@ -1,30 +1,37 @@
-# React + TypeScript + Vite
+# pizza-shop 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project works as a Dashboard for retailers who have a restaurant within a delivery application.
 
-Currently, two official plugins are available:
+The idea is that within this dashboard, the logist can monitor the restaurant's metrics such as monthly and daily orders, use graphs and also track each order individually, obtain details, which items were sold, change the status of these orders, cancel...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Starting
+These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 📋 Prerequisites
 
-- Configure the top-level `parserOptions` property like this:
+```
+VS Code
+```
+### 🔧 Installation
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+npm i 
+```
+### 📦 In the project directory, you can run:
+
+```
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🛠️ Built with
+
+* [React](https://pt-br.reactjs.org/) - Framework web
+* [Tailwind CSS](https://tailwindcss.com/docs/) - A utility-first CSS framework packed with classes
+* [react-router-dom] (https://reactrouter.com/en/main/start/tutorial) - package contains bindings for using React Router in web applications
+* [TypeScript](https://www.typescriptlang.org/docs/) - Programming languag
+* [Shadcn/ui](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+
+
+---
+⌨️ with ❤️ by [Erika Perciliano](https://github.com/erikaperciliano) 😊
