@@ -26,11 +26,13 @@ npm run dev
 
 ## 🛠️ Built with
 
-* [React](https://pt-br.reactjs.org/) - Framework web
-* [Tailwind CSS](https://tailwindcss.com/docs/) - A utility-first CSS framework packed with classes
-* [React Router Dom](https://reactrouter.com/en/main/start/tutorial/) - package contains bindings for using React Router in web applications
-* [React Helmet Async](https://github.com/staylor/react-helmet-async/) - It requires using a Provider to encapsulate Helmet state for your React tree
-* [TypeScript](https://www.typescriptlang.org/docs/) - Programming languag
+* [React](https://pt-br.reactjs.org) - Framework web
+* [Tailwind CSS](https://tailwindcss.com/docs) - A utility-first CSS framework packed with classes
+* [React Router Dom](https://reactrouter.com/en/main/start/tutorial) - package contains bindings for using React Router in web applications
+* [React Hook Form](https://react-hook-form.com) - Simple form validation with React Hook Form.
+* [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
+* [React Helmet Async](https://github.com/staylor/react-helmet-async) - It requires using a Provider to encapsulate Helmet state for your React tree
+* [TypeScript](https://www.typescriptlang.org/docs) - Programming languag
 * [Shadcn/ui](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 
