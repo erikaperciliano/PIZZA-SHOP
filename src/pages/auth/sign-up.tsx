@@ -30,7 +30,6 @@ const navigate = useNavigate()
 
   async function handleSignUp(data: SignUpForm){
     try{
-      console.log(data)
 
       await new Promise((resolve) => setTimeout(resolve, 2000))
   
