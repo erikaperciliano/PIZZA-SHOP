@@ -32,6 +32,7 @@ npm run dev
 * [React Hook Form](https://react-hook-form.com) - Simple form validation with React Hook Form.
 * [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
 * [React Helmet Async](https://github.com/staylor/react-helmet-async) - It requires using a Provider to encapsulate Helmet state for your React tree
+* [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components
 * [TypeScript](https://www.typescriptlang.org/docs) - Programming languag
 * [Shadcn/ui](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
