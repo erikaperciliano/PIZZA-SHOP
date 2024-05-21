@@ -1,6 +1,4 @@
 import { api } from '@/lib/axios';
-import { StringToBoolean } from 'class-variance-authority/types';
-
 export interface GetOrderDetailsParams {
     orderId: string
 }
