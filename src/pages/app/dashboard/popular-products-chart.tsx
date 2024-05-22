@@ -1,17 +1,9 @@
-import { getPopularProducts } from '@/api/get-month-revenue'
+import { getPopularProducts } from '@/api/get-popular-products'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { useQuery } from '@tanstack/react-query'
 import { BarChart } from 'lucide-react'
 import { ResponsiveContainer, PieChart, Pie, Cell } from 'recharts'
 import colors from 'tailwindcss/colors'
-
-const data = [
-    { product: 'Pepperoni', amount: 40 },
-    { product: 'Mozzarella', amount: 30 }, 
-    { product: '4 cheeses', amount: 50 }, 
-    { product: 'Chicken', amount: 15 }, 
-    { product: 'Margherita', amount: 26 }, 
-]
 
 const COLORS = [
     colors.sky[500],

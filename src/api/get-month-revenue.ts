@@ -1,13 +1,12 @@
 import { api } from "@/lib/axios"
 
-export type GetPopularProductsResponse = {
-    product: string
-    amount: number
-}[]
+export interface GetMonthRevenueResponse {
+    receipt: number
+    diffFromLastMonth: number
+}
 
 
-export async function getPopularProducts(){
-    const response = await api.get<GetPopularProductsResponse>('/metrics/popular-products')
-
+export async function getMonthRevenue(){
+    const response = await api.get<GetMonthRevenueResponse>('/metrics/month-receipt')
     return response.data
 }
