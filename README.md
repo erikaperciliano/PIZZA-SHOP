@@ -38,6 +38,18 @@ npm run dev
 * [React Query](https://tanstack.com/query/latest/docs/framework/react/overview) - Is often described as the missing data-fetching library for web applications
 * [Shadcn/ui](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
+# 🎯Result:
+<br/>
+
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/63f09713-d349-4396-8dae-7f3a265e93ad" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/ce8bdff6-60bc-4165-9db2-e91fb296f55e" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/984a54bc-d73d-432c-acb0-319e38cc67e9" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/a655074b-23bd-48d1-97db-3a683b707eca" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/6aa5242b-9788-4f89-862d-b4caf02df869" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/2c868d5a-2999-49b2-8653-5e102caf0b39" width="auto" height="auto">
+<img src="https://github.com/erikaperciliano/PIZZA-SHOP/assets/48223561/195905f9-0198-421f-bce4-b9ab5dc719bf" width="auto" height="auto">
+
+
 
 ---
 ⌨️ with ❤️ by [Erika Perciliano](https://github.com/erikaperciliano) 😊
